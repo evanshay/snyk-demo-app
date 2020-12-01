@@ -23,7 +23,7 @@
     "falcor-router-demo": "1.0.5",
     "hapi": "^13.4.0",
     "inert": "^4.0.0",
-    "bassmaster": "2.0.0",
+    "bassmaster": "3.2.0",
     "snyk-demo-child": "0.0.1",
     "azure-mgmt-storage": "^0.9.16",
     "snyk": "^1.431.1"
